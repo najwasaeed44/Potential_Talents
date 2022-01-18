@@ -77,3 +77,7 @@ As for the Ranking model, I run the RankNet model on the data and our best loos 
 <h1 align="center">
   <img src="img/RankNet model.png" width="500px"/><br/>
 </h1>
+
+
+
+**S3rXQORkdPBm0ap9**
