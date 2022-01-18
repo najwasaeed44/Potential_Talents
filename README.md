@@ -4,14 +4,16 @@
 <img src="img/logo.png" alt="Smiley face" width="100" height="100" align="left">
 
 # Potential Talents
-<hr style="height:4px;border-width:10;color:blue;background-color:black"><br><br><br>
+<!-- <hr style="height:4px;border-width:10;color:blue;background-color:black">
+ -->
+<br><br><br>
 
 
 <img src="https://images.genial.ly/59e059d30b9c21060cb4c2ec/5bbf17763292ef649e9b810f/175cbb1e-df65-405a-9cd0-cf177e1a2f00.gif?genial&1633910400074" alt="Smiley face" width="60" height="60" align="left">
 
 ## Background:
-<hr style="height:1.5px;border-width:10;color:blue;background-color:black">
-
+<!-- <hr style="height:1.5px;border-width:10;color:blue;background-color:black">
+ -->
 As a talent sourcing and management company, we are interested in finding talented individuals for sourcing these candidates to technology companies. Finding talented candidates is not easy, for several reasons. The first reason is one needs to understand what the role is very well to fill in that spot, this requires understanding the client’s needs and what they are looking for in a potential candidate. The second reason is one needs to understand what makes a candidate shine for the role we are in search for. Third, where to find talented individuals is another challenge.
 
 The nature of our job requires a lot of human labor and is full of manual operations. Towards automating this process we want to build a better approach that could save us time and finally help us spot potential candidates that could fit the roles we are in search for. Moreover, going beyond that for a specific role we want to fill in we are interested in developing a machine learning powered pipeline that could spot talented individuals, and rank them based on their fitness.
@@ -24,15 +26,15 @@ Assuming that we were able to list and rank fitting candidates, we then employ a
 <img src="https://media.baamboozle.com/uploads/images/67969/1595412283_471863" alt="Smiley face" width="60" height="60" align="left">
 
 ## Data Description:
-<hr style="height:1.5px;border-width:10;color:blue;background-color:black">
-
+<!-- <hr style="height:1.5px;border-width:10;color:blue;background-color:black">
+ -->
 The data comes from our sourcing efforts. We removed any field that could directly reveal personal details and gave a unique identifier for each candidate.
 
 <img src="https://c.tenor.com/1_5w5vXEH5gAAAAj/mandalorian-star-wars.gif" alt="Smiley face" width="60" height="60" align="left">
 
 ## Attributes:
-<hr style="height:1.5px;border-width:10;color:blue;background-color:black">
-
+<!-- <hr style="height:1.5px;border-width:10;color:blue;background-color:black">
+ -->
 | Column        | Description                                           | Type   | 
 |---------------|-------------------------------------------------------| ------ | 
 | `id `         | Unique identifier for candidate .                     | `numeric` | 
@@ -45,8 +47,8 @@ The data comes from our sourcing efforts. We removed any field that could direct
 <img src="https://media0.giphy.com/media/LmqdA28jZ7bitDeDWr/200.webp" alt="Smiley face" width="60" height="60" align="left">
 
 ## Project Overview:
-<hr style="height:1.5px;border-width:10;color:blue;background-color:black">
-
+<!-- <hr style="height:1.5px;border-width:10;color:blue;background-color:black">
+ -->
 I used 5 different strategies to find the similarities between the targeted sentences and each job title as follows:
 
 1. **`TF-IDF`**.
